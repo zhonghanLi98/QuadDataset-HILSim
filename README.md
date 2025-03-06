@@ -1,0 +1,1 @@
+This is a quadcopter HIL simulation flight data set, including three modes: manual control, fixed trackboard offboard control, and random trackboard offboard control. The data set is used to verify multi-source data fusion algorithms and fault diagnosis algorithms.
